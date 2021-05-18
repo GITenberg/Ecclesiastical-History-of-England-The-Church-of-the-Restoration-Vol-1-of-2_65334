@@ -1,0 +1,24 @@
+_repo: Ecclesiastical-History-of-England-The-Church-of-the-Restoration-Vol-1-of-2_65334
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Stoughton, John
+    birthdate: 1807
+    deathdate: 1897
+    gutenberg_agent_id: '41836'
+    url: http://www.gutenberg.org/2009/agents/41836
+    wikipedia: https://en.wikipedia.org/wiki/John_Stoughton
+description: ''
+gutenberg_issued: '2021-05-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '65334'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Ecclesiastical History of England, The Church of the Restoration, Vol. 1 of
+  2
+url: http://www.gutenberg.org/ebooks/65334
